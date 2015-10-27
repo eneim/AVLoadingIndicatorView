@@ -105,7 +105,7 @@ public class AVLoadingIndicatorView extends View {
   public static final int BallGridBeat = 26;
   public static final int SemiCircleSpin = 27;
   //Sizes (with defaults in DP)
-  public static final int DEFAULT_SIZE = 45;
+  public static final int DEFAULT_SIZE = 24;
   //attrs
   int mIndicatorId;
   int mIndicatorColor;
